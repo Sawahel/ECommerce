@@ -1,0 +1,6 @@
+C:\Users\sawaha\source\repos\ECommerce\ECommerce.ProductCatalog.Model\bin\Debug\ECommerce.ProductCatalog.Model.dll
+C:\Users\sawaha\source\repos\ECommerce\ECommerce.ProductCatalog.Model\bin\Debug\ECommerce.ProductCatalog.Model.pdb
+C:\Users\sawaha\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\ECommerce.ProductCatalog.Model.csprojAssemblyReference.cache
+C:\Users\sawaha\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\ECommerce.ProductCatalog.Model.csproj.CoreCompileInputs.cache
+C:\Users\sawaha\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\ECommerce.ProductCatalog.Model.dll
+C:\Users\sawaha\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\ECommerce.ProductCatalog.Model.pdb
