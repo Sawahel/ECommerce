@@ -26,6 +26,7 @@ namespace ECommerce.ProductCatalog
                 ServiceEventSource.Current.ServiceTypeRegistered(Process.GetCurrentProcess().Id, typeof(ProductCatalog).Name);
 
                 // Prevents this host process from terminating so services keep running.
+                // hamada yel3ab
                 Thread.Sleep(Timeout.Infinite);
             }
             catch (Exception e)
